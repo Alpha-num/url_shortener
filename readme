@@ -1,0 +1,2 @@
+A simple URL shorter using Dart. 
+uses a map data structure for manipulating urls. Consider using a Database or a persistent storage location in real implementation.
